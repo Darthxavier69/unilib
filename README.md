@@ -1,1 +1,1 @@
-# unilib
+cd ruta/de/tu/proyecto
